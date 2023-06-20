@@ -1,0 +1,17 @@
+c:\users\xmaj\documents\visual studio 2015\Projects\WolfLoginWhite\WolfLoginWhite\bin\Debug\WolfLoginWhite.exe.config
+c:\users\xmaj\documents\visual studio 2015\Projects\WolfLoginWhite\WolfLoginWhite\bin\Debug\WolfLoginWhite.exe
+c:\users\xmaj\documents\visual studio 2015\Projects\WolfLoginWhite\WolfLoginWhite\bin\Debug\WolfLoginWhite.pdb
+c:\users\xmaj\documents\visual studio 2015\Projects\WolfLoginWhite\WolfLoginWhite\obj\Debug\WolfLoginWhite.csprojResolveAssemblyReference.cache
+c:\users\xmaj\documents\visual studio 2015\Projects\WolfLoginWhite\WolfLoginWhite\obj\Debug\MainWindow.g.cs
+c:\users\xmaj\documents\visual studio 2015\Projects\WolfLoginWhite\WolfLoginWhite\obj\Debug\App.g.cs
+c:\users\xmaj\documents\visual studio 2015\Projects\WolfLoginWhite\WolfLoginWhite\obj\Debug\WolfLoginWhite_MarkupCompile.cache
+c:\users\xmaj\documents\visual studio 2015\Projects\WolfLoginWhite\WolfLoginWhite\obj\Debug\WolfLoginWhite_MarkupCompile.lref
+c:\users\xmaj\documents\visual studio 2015\Projects\WolfLoginWhite\WolfLoginWhite\obj\Debug\MainWindow.baml
+c:\users\xmaj\documents\visual studio 2015\Projects\WolfLoginWhite\WolfLoginWhite\obj\Debug\WolfLoginWhite.g.resources
+c:\users\xmaj\documents\visual studio 2015\Projects\WolfLoginWhite\WolfLoginWhite\obj\Debug\WolfLoginWhite.Properties.Resources.resources
+c:\users\xmaj\documents\visual studio 2015\Projects\WolfLoginWhite\WolfLoginWhite\obj\Debug\WolfLoginWhite.csproj.GenerateResource.Cache
+c:\users\xmaj\documents\visual studio 2015\Projects\WolfLoginWhite\WolfLoginWhite\obj\Debug\WolfLoginWhite.exe
+c:\users\xmaj\documents\visual studio 2015\Projects\WolfLoginWhite\WolfLoginWhite\obj\Debug\WolfLoginWhite.pdb
+c:\users\xmaj\documents\visual studio 2015\Projects\WolfLoginWhite\WolfLoginWhite\bin\Debug\MaterialDesignColors.dll
+c:\users\xmaj\documents\visual studio 2015\Projects\WolfLoginWhite\WolfLoginWhite\bin\Debug\MaterialDesignThemes.Wpf.dll
+c:\users\xmaj\documents\visual studio 2015\Projects\WolfLoginWhite\WolfLoginWhite\obj\Debug\App.baml
