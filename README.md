@@ -5,6 +5,6 @@ MaterialDesign e o Blend for Visual Studio. Este repositório contém o código-
 Aprenda a desenvolver interfaces atraentes e animadas com facilidade usando as tecnologias mencionadas.
 Comece agora mesmo e impressione seus usuários com uma UI incrível!
 ## Demo
-[![Assista ao vídeo de demonstração ](https://youtu.be/bIsTH62qhWM)
+[![Assista o Demo ](WolfLogin.png)]https://youtu.be/bIsTH62qhWM)
 ## Assista ao Tutorial de como  eu  fiz 
 [![Assista ao vídeo](WolfLogin.png)](https://youtu.be/aaTlZcREJQA)
