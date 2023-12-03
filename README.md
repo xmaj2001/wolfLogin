@@ -6,5 +6,3 @@ Aprenda a desenvolver interfaces atraentes e animadas com facilidade usando as t
 Comece agora mesmo e impressione seus usuários com uma UI incrível!
 ## Demo
 [![Assista ao Demo Wolf Login](WolfLogin.png)](https://youtu.be/bIsTH62qhWM)
-## Assista ao Tutorial de como  eu  fiz 
-[![Assista ao vídeo](WolfLogin.png)](https://youtu.be/aaTlZcREJQA)
